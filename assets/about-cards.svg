@@ -1,19 +1,5 @@
-<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowOTY2YTBiNi1jM2Y3LTQxOTQtOGNjNS0zOWZiYmE5M2I1YjAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPXON4HfallEmoMi7i2WJroAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2NDhmNmYwNC04MDBkLTRmYTQtOTNkYy00ZDEzNjkyYjJmZjBscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNobXzeWamMbXLrTK0XuRzhmgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggeDjGi/Ye8Qvjd8Y11J0UGBGkOjjmMT3FzqT2FtttVF2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEDHuKikQSk0sedYQH+xh4UAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCrUJ0O7IGC1tKeAmtSIqjkkXWXc7La6KfaclnPAUoNGGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBh+Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjA5NjZhMGI2LWMzZjctNDE5NC04Y2M1LTM5ZmJiYTkzYjViMC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNhYmI3Y2I3LTM5YTYtNDIzMS05OTUxLTc2NzE4YTYxMGZiNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB4OMaL9h7xC+N3xjXUnRQYEaQ6OOYxPcXOpPYW221UXaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggSsZzrdQ094y8eLb8ywGV3THX2+9j2Bzf+HzTrULqIFCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggsVSvN2d6trApuLFaQAtQ5Hf1a82H6SCovFGFXkGo0zJ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHg7MyCWa8CzmuyaBp1TV6pxCjNwgZapJDECArsO86qBN8kkMKcEPITJctwWsvMyPaxsucInR0kxRX536DvDp2U=</c2pa:manifest></metadata>
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3NmE3YzI5ZS0yNjU3LTQ0ODktOTYwMC1mMzZiNDgwYjg0NDgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLNLm8buCbeAc2psKC+OxZ0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyY2JlODM1NC04NGYyLTQ4YzAtOTQyMC1jMjI4MTA2ODY0NmJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoqStOL/VivT7mivwaPL4G3wAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggFB/L1kIj9pthOCtYDpLPOp0KZXA1rz6sJS1ruuuVxA2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFIO7dWIIxv8OWXkgATFlJsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBvl2xOCK2OpDySqKTN76RaiNj4OQ1g9hxzI1J17kh4DWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBh+Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjc2YTdjMjllLTI2NTctNDQ4OS05NjAwLWYzNmI0ODBiODQ0OC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdjMzBhYTRjLTE5NmQtNGRiZC05YTI1LTQyMDA5MDJhYTgwOHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAUH8vWQiP2m2E4K1gOks86nQplcDWvPqwlLWu665XEDaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggEbNWPWhQ5icu1MLK4NJrLNXVPUGpe00qh2KNU0VfHE2iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggPumXWuL9Gu9FIN7gh39+VPPOygnr9DbaSf03jKQdY250Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAuQxzaP/Th384Rglvy8sZBCmBnhdPzERD30MI061r9GSCncjs1ZBQ2mfpG2ZZxou2g8s7iKRYzUITZbWPZqNtM=</c2pa:manifest></metadata>
   <defs>
-    <radialGradient id="bg" cx="50%" cy="35%" r="80%">
-      <stop offset="0%" stop-color="#0f1a2b"/>
-      <stop offset="100%" stop-color="#060a12"/>
-    </radialGradient>
-
-    <radialGradient id="blobBlue" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#4FC3F7" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#4FC3F7" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="blobPurple" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#8B7CF6" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#8B7CF6" stop-opacity="0"/>
-    </radialGradient>
-
     <linearGradient id="glassFill" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
@@ -22,102 +8,145 @@
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
       <stop offset="45%" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
-
-    <filter id="blur30" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="45"/>
-    </filter>
     <filter id="cardShadow" x="-40%" y="-40%" width="180%" height="180%">
-      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.45"/>
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
     </filter>
+
+    <!-- ===== icônes professionnelles (traits, sans emoji) ===== -->
+    <g id="icon-chip">
+      <rect x="82" y="52" width="36" height="36" rx="6" fill="none" stroke="#4FC3F7" stroke-width="2.2"/>
+      <circle cx="100" cy="70" r="7" fill="none" stroke="#4FC3F7" stroke-width="2.2"/>
+      <path d="M90 52 V44 M110 52 V44 M90 88 V96 M110 88 V96 M82 62 H74 M82 78 H74 M118 62 H126 M118 78 H126" stroke="#4FC3F7" stroke-width="2.2" stroke-linecap="round"/>
+    </g>
+    <g id="icon-layers">
+      <path d="M100 46 L128 60 L100 74 L72 60 Z" fill="none" stroke="#4FC3F7" stroke-width="2.2" stroke-linejoin="round"/>
+      <path d="M72 72 L100 86 L128 72" fill="none" stroke="#4FC3F7" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M72 84 L100 98 L128 84" fill="none" stroke="#4FC3F7" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g id="icon-briefcase">
+      <rect x="72" y="60" width="56" height="38" rx="6" fill="none" stroke="#4FC3F7" stroke-width="2.2"/>
+      <path d="M88 60 V50 a6 6 0 0 1 6 -6 h12 a6 6 0 0 1 6 6 V60" fill="none" stroke="#4FC3F7" stroke-width="2.2"/>
+      <path d="M72 78 H128" stroke="#4FC3F7" stroke-width="2.2"/>
+    </g>
+    <g id="icon-flask">
+      <path d="M92 44 H108 M95 44 V66 L78 92 a6 6 0 0 0 5 9 h34 a6 6 0 0 0 5 -9 L105 66 V44" fill="none" stroke="#4FC3F7" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+      <path d="M84 82 H116" stroke="#4FC3F7" stroke-width="2.2"/>
+    </g>
+    <g id="icon-cap">
+      <path d="M100 44 L136 60 L100 76 L64 60 Z" fill="none" stroke="#4FC3F7" stroke-width="2.2" stroke-linejoin="round"/>
+      <path d="M80 66 V84 Q100 96 120 84 V66" fill="none" stroke="#4FC3F7" stroke-width="2.2" stroke-linejoin="round"/>
+      <path d="M136 60 V78" stroke="#4FC3F7" stroke-width="2.2" stroke-linecap="round"/>
+    </g>
+    <g id="icon-rocket">
+      <path d="M100 42 C114 54 116 74 108 90 H92 C84 74 86 54 100 42 Z" fill="none" stroke="#4FC3F7" stroke-width="2.2" stroke-linejoin="round"/>
+      <circle cx="100" cy="62" r="5" fill="none" stroke="#4FC3F7" stroke-width="2"/>
+      <path d="M92 82 L80 96 M108 82 L120 96 M96 90 L92 100 M104 90 L108 100" stroke="#4FC3F7" stroke-width="2.2" stroke-linecap="round"/>
+    </g>
+    <g id="icon-globe">
+      <circle cx="100" cy="70" r="26" fill="none" stroke="#4FC3F7" stroke-width="2.2"/>
+      <ellipse cx="100" cy="70" rx="11" ry="26" fill="none" stroke="#4FC3F7" stroke-width="2"/>
+      <path d="M74 70 H126 M78 56 H122 M78 84 H122" stroke="#4FC3F7" stroke-width="2"/>
+    </g>
   </defs>
 
-  <!-- background -->
-  <rect x="0" y="0" width="1000" height="600" fill="url(#bg)"/>
-  <circle cx="120" cy="90" r="160" fill="url(#blobBlue)" filter="url(#blur30)"/>
-  <circle cx="880" cy="120" r="150" fill="url(#blobPurple)" filter="url(#blur30)"/>
-  <circle cx="500" cy="560" r="220" fill="url(#blobBlue)" filter="url(#blur30)"/>
-  <circle cx="850" cy="520" r="140" fill="url(#blobPurple)" filter="url(#blur30)"/>
+  <!-- fond transparent : la carte se fond dans le fond de la page -->
 
   <!-- ============ ROW 1 ============ -->
-  <!-- Card 1 -->
+  <!-- Card 1 : IA générative -->
   <g transform="translate(40,60)" filter="url(#cardShadow)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-10; 0,0" dur="4.2s" begin="0s" repeatCount="indefinite"/>
     <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
     <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
-    <text x="100" y="72" font-size="38" text-anchor="middle">🧠</text>
+    <use href="#icon-chip"/>
     <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">IA générative</text>
     <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">(RAG, LLM) &amp;</text>
     <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">Machine Learning</text>
   </g>
 
-  <!-- Card 2 -->
+  <!-- Card 2 : Systèmes IA -->
   <g transform="translate(266,60)" filter="url(#cardShadow)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-12; 0,0" dur="5s" begin="0.6s" repeatCount="indefinite"/>
     <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
     <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
-    <text x="100" y="72" font-size="38" text-anchor="middle">🏗️</text>
+    <use href="#icon-layers"/>
     <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Systèmes IA</text>
     <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">end-to-end</text>
     <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">Python · FastAPI · Docker</text>
   </g>
 
-  <!-- Card 3 -->
+  <!-- Card 3 : Stage IA @ Axe Finance — alterne texte/logo -->
   <g transform="translate(492,60)" filter="url(#cardShadow)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="4.6s" begin="1.1s" repeatCount="indefinite"/>
     <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
     <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
-    <text x="100" y="72" font-size="38" text-anchor="middle">💼</text>
-    <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Stage IA</text>
-    <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">Axe Finance</text>
-    <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">LLM (Ollama/Qwen) + RAG</text>
+    <g>
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.55;0.65;0.95;1" dur="6s" repeatCount="indefinite"/>
+      <use href="#icon-briefcase"/>
+      <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Stage IA</text>
+      <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">LLM (Ollama/Qwen)</text>
+      <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">+ RAG ChromaDB</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.65;0.95;1" dur="6s" repeatCount="indefinite"/>
+      <circle cx="100" cy="88" r="34" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.3"/>
+      <text x="100" y="98" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#4FC3F7" text-anchor="middle">AF</text>
+      <text x="100" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#EAF2FF" text-anchor="middle" font-weight="600">Axe Finance</text>
+      <text x="100" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#B9C7DD" text-anchor="middle">Été 2026</text>
+    </g>
   </g>
 
-  <!-- Card 4 -->
+  <!-- Card 4 : Test Automation @ Sagemcom — alterne texte/logo -->
   <g transform="translate(718,60)" filter="url(#cardShadow)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-11; 0,0" dur="4.9s" begin="0.3s" repeatCount="indefinite"/>
     <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
     <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
-    <text x="100" y="72" font-size="38" text-anchor="middle">🧪</text>
-    <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Test Automation</text>
-    <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">Sagemcom Tunisie</text>
-    <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">Python</text>
+    <g>
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.55;0.65;0.95;1" dur="6.4s" begin="0.8s" repeatCount="indefinite"/>
+      <use href="#icon-flask"/>
+      <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Test Automation</text>
+      <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">Compteurs</text>
+      <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">intelligents (Python)</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.65;0.95;1" dur="6.4s" begin="0.8s" repeatCount="indefinite"/>
+      <circle cx="100" cy="88" r="34" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.3"/>
+      <text x="100" y="96" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4FC3F7" text-anchor="middle">SGC</text>
+      <text x="100" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#EAF2FF" text-anchor="middle" font-weight="600">Sagemcom</text>
+      <text x="100" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#B9C7DD" text-anchor="middle">Été 2025</text>
+    </g>
   </g>
 
   <!-- ============ ROW 2 ============ -->
-  <!-- Card 5 -->
+  <!-- Card 5 : Membre G2FOSS — alterne texte/logo -->
   <g transform="translate(160,310)" filter="url(#cardShadow)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-10; 0,0" dur="4.4s" begin="0.9s" repeatCount="indefinite"/>
     <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
     <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
-    <text x="100" y="72" font-size="38" text-anchor="middle">🎓</text>
-    <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Membre Club</text>
-    <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">G2FOSS ENIT</text>
+    <g>
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.55;0.65;0.95;1" dur="5.8s" begin="1.6s" repeatCount="indefinite"/>
+      <use href="#icon-cap"/>
+      <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Membre Club</text>
+      <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">G2FOSS ENIT</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.65;0.95;1" dur="5.8s" begin="1.6s" repeatCount="indefinite"/>
+      <circle cx="100" cy="88" r="34" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.3"/>
+      <text x="100" y="96" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#4FC3F7" text-anchor="middle">G2F</text>
+      <text x="100" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#EAF2FF" text-anchor="middle" font-weight="600">G2FOSS</text>
+      <text x="100" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#B9C7DD" text-anchor="middle">Club ENIT</text>
+    </g>
   </g>
 
-  <!-- Card 6 -->
+  <!-- Card 6 : PFE -->
   <g transform="translate(386,310)" filter="url(#cardShadow)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-13; 0,0" dur="5.3s" begin="0.2s" repeatCount="indefinite"/>
     <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
     <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
-    <text x="100" y="72" font-size="38" text-anchor="middle">🚀</text>
+    <use href="#icon-rocket"/>
     <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Recherche PFE</text>
     <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">6 mois</text>
     <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">Fév → Août 2027</text>
   </g>
 
-  <!-- Card 7 -->
+  <!-- Card 7 : Langues -->
   <g transform="translate(612,310)" filter="url(#cardShadow)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="4.7s" begin="1.4s" repeatCount="indefinite"/>
     <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
     <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
-    <text x="100" y="72" font-size="38" text-anchor="middle">🌍</text>
+    <use href="#icon-globe"/>
     <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Langues</text>
     <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">AR · FR · EN</text>
     <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">DE (notions)</text>
