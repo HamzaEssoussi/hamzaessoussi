@@ -1,72 +1,118 @@
-<div align="center">
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glassFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
 
-<!-- NOM / TAGLINE - texte animé -->
-<a href="https://github.com/hamzaessoussi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=4FC3F7&center=true&vCenter=true&width=880&lines=Hamza+Essoussi+-+Ing%C3%A9nieur+Logiciel+%26+IA;RAG+%2F+LLM+%2F+Machine+Learning;%C3%89l%C3%A8ve-Ing%C3%A9nieur+%C3%A0+l%27ENIT" alt="typing banner">
-</a>
+  <!-- fond transparent : la carte se fond dans le fond de la page -->
 
-<br>
+  <!-- ============ ROW 1 ============ -->
+  <!-- Card 1 : IA générative -->
+  <g transform="translate(40,60)" filter="url(#cardShadow)">
+    <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
+    <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
+    <text x="100" y="72" font-size="38" text-anchor="middle">🧠</text>
+    <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">IA générative</text>
+    <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">(RAG, LLM) &amp;</text>
+    <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">Machine Learning</text>
+  </g>
 
-<!-- RESEAUX -->
-<a href="https://www.linkedin.com/in/hamza-essoussi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="mailto:hamza.essoussi@etudiant-enit.utm.tn"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=4FC3F7" alt="Email"></a>&nbsp;&nbsp;
-<a href="https://github.com/hamzaessoussi"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4FC3F7" alt="GitHub"></a>
+  <!-- Card 2 : Systèmes IA -->
+  <g transform="translate(266,60)" filter="url(#cardShadow)">
+    <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
+    <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
+    <text x="100" y="72" font-size="38" text-anchor="middle">🏗️</text>
+    <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Systèmes IA</text>
+    <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">end-to-end</text>
+    <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">Python · FastAPI · Docker</text>
+  </g>
 
-<br>
+  <!-- Card 3 : Stage IA @ Axe Finance -- alterne texte / logo -->
+  <g transform="translate(492,60)" filter="url(#cardShadow)">
+    <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
+    <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
+    <g>
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.55;0.65;0.95;1" dur="6s" repeatCount="indefinite"/>
+      <text x="100" y="72" font-size="38" text-anchor="middle">💼</text>
+      <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Stage IA</text>
+      <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">LLM (Ollama/Qwen)</text>
+      <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">+ RAG ChromaDB</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.65;0.95;1" dur="6s" repeatCount="indefinite"/>
+      <circle cx="100" cy="88" r="34" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.3"/>
+      <text x="100" y="98" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#4FC3F7" text-anchor="middle">AF</text>
+      <text x="100" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#EAF2FF" text-anchor="middle" font-weight="600">Axe Finance</text>
+      <text x="100" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#B9C7DD" text-anchor="middle">Été 2026</text>
+    </g>
+  </g>
 
-<img src="https://komarev.com/ghpvc/?username=hamzaessoussi&style=flat&color=4FC3F7&label=profile+views" alt="profile views">
+  <!-- Card 4 : Test Automation @ Sagemcom -- alterne texte / logo -->
+  <g transform="translate(718,60)" filter="url(#cardShadow)">
+    <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
+    <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
+    <g>
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.55;0.65;0.95;1" dur="6.4s" begin="0.8s" repeatCount="indefinite"/>
+      <text x="100" y="72" font-size="38" text-anchor="middle">🧪</text>
+      <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Test Automation</text>
+      <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">Compteurs</text>
+      <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">intelligents (Python)</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.65;0.95;1" dur="6.4s" begin="0.8s" repeatCount="indefinite"/>
+      <circle cx="100" cy="88" r="34" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.3"/>
+      <text x="100" y="96" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4FC3F7" text-anchor="middle">SGC</text>
+      <text x="100" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#EAF2FF" text-anchor="middle" font-weight="600">Sagemcom</text>
+      <text x="100" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#B9C7DD" text-anchor="middle">Été 2025</text>
+    </g>
+  </g>
 
-</div>
+  <!-- ============ ROW 2 ============ -->
+  <!-- Card 5 : Membre G2FOSS -- alterne texte / logo -->
+  <g transform="translate(160,310)" filter="url(#cardShadow)">
+    <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
+    <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
+    <g>
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.55;0.65;0.95;1" dur="5.8s" begin="1.6s" repeatCount="indefinite"/>
+      <text x="100" y="72" font-size="38" text-anchor="middle">🎓</text>
+      <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Membre Club</text>
+      <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">G2FOSS ENIT</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.65;0.95;1" dur="5.8s" begin="1.6s" repeatCount="indefinite"/>
+      <circle cx="100" cy="88" r="34" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.3"/>
+      <text x="100" y="96" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#4FC3F7" text-anchor="middle">G2F</text>
+      <text x="100" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#EAF2FF" text-anchor="middle" font-weight="600">G2FOSS</text>
+      <text x="100" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#B9C7DD" text-anchor="middle">Club ENIT</text>
+    </g>
+  </g>
 
----
+  <!-- Card 6 : PFE -->
+  <g transform="translate(386,310)" filter="url(#cardShadow)">
+    <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
+    <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
+    <text x="100" y="72" font-size="38" text-anchor="middle">🚀</text>
+    <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Recherche PFE</text>
+    <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">6 mois</text>
+    <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">Fév → Août 2027</text>
+  </g>
 
-## À propos de moi
-
-Salut, je suis **Hamza** 👋, élève-ingénieur en génie logiciel à l'**ENIT** (Tunisie), en double cursus avec un Master Recherche en *Information Systems Technology*.
-
-<div align="center">
-<img src="assets/about-cards.svg" width="100%" alt="À propos de Hamza">
-</div>
-
----
-
-<div align="center">
-
-## Stack technique
-
-<img src="https://skillicons.dev/icons?i=python,java,cs,c,js,fastapi,react,flutter,dart,postgres,docker,git,github,graphql&perline=7" alt="tech stack">
-
-**IA / ML :** LLM (Ollama, Qwen) · RAG · ChromaDB · Scikit-learn · Random Forest · SVM
-**Backend :** FastAPI · Java EE · JPA · Quarkus · WildFly · Entity Framework Core
-**Outils :** Docker · CI/CD (GitHub Actions, GitLab CI) · Domain-Driven Design · QGIS · Google Earth Engine
-
-</div>
-
----
-
-## Projets marquants
-
-- **AI Project Planning Simulator** (Axe Finance) — moteur RAG de planification de projets IT, APIs FastAPI, PostgreSQL, Docker
-- **TrendPulse AI** — prédiction de tendances sociales : LSTM, TFT, Prophet + LLM (Qwen) pour le raisonnement causal + Neo4j
-- **Plateforme d'évaluation d'entretiens (DDD)** — extraction IA de questions depuis PDF, correction automatisée (Quarkus, GraphQL)
-- **Land Cover Classification** — classification supervisée sur imagerie satellite Sentinel-2 (Random Forest, NDVI/NDWI/NDBI)
-- **SmurfGame** — jeu d'aventure 2D en C# / .NET avec Entity Framework Core
-
----
-
-<div align="center">
-
-## Stats GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=hamzaessoussi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaessoussi&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" height="165">
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Ouvert aux opportunités de PFE (stage de fin d'études) — n'hésitez pas à me contacter !</sub>
-
-</div>
+  <!-- Card 7 : Langues -->
+  <g transform="translate(612,310)" filter="url(#cardShadow)">
+    <rect width="200" height="200" rx="26" fill="url(#glassFill)" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.4"/>
+    <path d="M26 26 Q100 10 174 26" stroke="url(#sheen)" stroke-width="40" fill="none" opacity="0.5"/>
+    <text x="100" y="72" font-size="38" text-anchor="middle">🌍</text>
+    <text x="100" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#EAF2FF" text-anchor="middle" font-weight="600">Langues</text>
+    <text x="100" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">AR · FR · EN</text>
+    <text x="100" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#B9C7DD" text-anchor="middle">DE (notions)</text>
+  </g>
+</svg>
