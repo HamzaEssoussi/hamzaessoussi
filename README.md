@@ -24,13 +24,9 @@
 
 Salut, je suis **Hamza** 👋, élève-ingénieur en génie logiciel à l'**ENIT** (Tunisie), en double cursus avec un Master Recherche en *Information Systems Technology*.
 
-- 🧠 Spécialisé en **IA générative appliquée** (RAG, LLM) et **Machine Learning**
-- 🏗️ Expérience en conception et déploiement de systèmes IA & logiciels end-to-end (Python, FastAPI, Docker, PostgreSQL, ChromaDB)
-- 💼 Stage IA chez **Axe Finance** : moteur de planification de projets IT basé sur un LLM local (Ollama/Qwen) + RAG avec ChromaDB
-- 🧪 Stage Test Automation chez **Sagemcom Tunisie** : automatisation de tests sur compteurs intelligents d'eau (Python)
-- 🎓 Membre du **Club G2FOSS ENIT**
-- 🚀 **À la recherche d'un stage de fin d'études (PFE)** de 6 mois — février à août 2027
-- 🌍 Langues : Arabe (maternelle) · Français (courant) · Anglais (courant) · Allemand (notions)
+<div align="center">
+<img src="assets/about-cards.svg" width="100%" alt="À propos de Hamza">
+</div>
 
 ---
 
