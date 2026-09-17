@@ -22,7 +22,7 @@
 
 ## About Me
 
-Hi, I'm **Hamza**, a software engineering student at **ENIT** (Tunisia), pursuing a dual degree with a Research Master's in *Information Systems Technology*.
+Hi, I'm **Hamza** 👋, a software engineering student at **ENIT** (Tunisia), pursuing a dual degree with a Research Master's in *Information Systems Technology*.
 
 <div align="center">
 <img src="assets/about-cards.svg" width="100%" alt="About Hamza">
